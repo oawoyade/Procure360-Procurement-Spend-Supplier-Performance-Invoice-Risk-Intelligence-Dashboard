@@ -1,31 +1,3 @@
-# Procure360: Procurement Spend, Supplier Performance & Invoice Risk Intelligence Dashboard
----
-
-# Project Links
-
-## GitHub
-[Insert GitHub Repository Link Here]
-
----
-
-# Skills
-
-- Data Intelligence
-- Procurement Analytics
-- Data Analysis
-- Data Modelling
-- DAX
-- Power BI
-- Data Visualisation
-- Business Intelligence
-- KPI Engineering
-- HTML & CSS in Power BI
-- Procurement Risk Analytics
-- Supplier Performance Analysis
-
----
-
-# About This Project
 
 The **Procure360: Procurement Spend, Supplier Performance & Invoice Risk Intelligence Dashboard** was developed as a comprehensive procurement analytics and business intelligence solution designed to transform fragmented procurement, supplier and invoice data into meaningful, actionable insights for operational and strategic decision-making.
 
